@@ -1,7 +1,7 @@
 # Weather-Journal App Project
 
 ## How To Run 
-1.Download project files 
+1. Download project files 
 2. install node js on your machine
 3. open cmd and type "node server.js"
 
